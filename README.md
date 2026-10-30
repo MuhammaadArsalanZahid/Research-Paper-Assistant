@@ -1,6 +1,6 @@
 # 📚 Research Paper Assistant (RAG)
 
-> 🎥 **Demo video:** TODO_ADD_VIDEO_LINK
+> 🎥 **Demo video:** https://drive.google.com/file/d/1TxvCxH_-Ih21U6FpHKKsv48gu4s9mQAn/view?usp=sharing
 
 Upload several research papers (PDF), ask questions across all of them, get a summary of one paper, or compare two papers. Every answer shows the **paper title and page** it came from. The knowledge base is saved on disk, so it does not need to be rebuilt each time.
 
@@ -81,10 +81,7 @@ Open the link shown in the terminal (usually `http://127.0.0.1:7860`). The first
 
 ## Screenshots
 TODO: add screenshots to `demo/` and show them here:
-
-```
-
-```
+<img width="1914" height="869" alt="Screenshot 2026-10-31 013254" src="https://github.com/user-attachments/assets/944f8ffd-5175-4c79-8fb7-36f91090a63c" />
 
 ## Results
 Run the evaluation after adding your papers to the library:
@@ -115,6 +112,6 @@ Value of `RERANK_MIN_SCORE` used for the "not found" case: TODO.
 - Hybrid search (BM25 + FAISS), OCR for scanned papers, a larger model, deployment on Hugging Face Spaces.
 
 ## Author
-**TODO_YOUR_NAME**: [LinkedIn](TODO_YOUR_LINKEDIN_LINK)
+**Muhammad Arsalan Zahid**: [LinkedIn](https://www.linkedin.com/in/muhammad-arsalan-zahid-aa255b330/)
 
 *Built during the AI/ML Internship at Taviq AI Solutions.*
