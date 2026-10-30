@@ -80,7 +80,10 @@ Open the link shown in the terminal (usually `http://127.0.0.1:7860`). The first
 3. **Paper tools tab:** summarize a paper or compare two papers.
 
 ## Screenshots
-TODO: add screenshots to `demo/` and show them here:
+<img width="1914" height="882" alt="Screenshot 2026-10-31 013504" src="https://github.com/user-attachments/assets/5dbeb4aa-e46a-48c5-9d6b-b75802dbd5a3" />
+<img width="1917" height="957" alt="Screenshot 2026-10-31 013155" src="https://github.com/user-attachments/assets/448438e9-28b7-4c72-ae05-3b563557a8d1" />
+<img width="1880" height="470" alt="Screenshot 2026-10-31 013230" src="https://github.com/user-attachments/assets/44563d03-23de-46a8-a88d-d1037cfd07bf" />
+
 <img width="1914" height="869" alt="Screenshot 2026-10-31 013254" src="https://github.com/user-attachments/assets/944f8ffd-5175-4c79-8fb7-36f91090a63c" />
 
 ## Results
