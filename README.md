@@ -109,7 +109,7 @@ Value of `RERANK_MIN_SCORE` used for the "not found" case: TODO.
 - PDFs with two columns can mix the reading order of the extracted text.
 - Scanned PDFs (images only) are not supported; the app shows a message.
 - A small language model can make mistakes, ignore the "not found" rule, or write weak summaries and comparisons. Always check the cited pages.
-- TODO: add the failures you really found during testing.
+
 
 ## Future improvements
 - Hybrid search (BM25 + FAISS), OCR for scanned papers, a larger model, deployment on Hugging Face Spaces.
