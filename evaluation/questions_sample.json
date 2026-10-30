@@ -1,0 +1,97 @@
+[
+  {
+    "question": "How much does LeafNet reduce the size of the network?",
+    "paper_file": "leafnet_pruning.pdf",
+    "page": 1
+  },
+  {
+    "question": "What percentage of filters does LeafNet remove in each layer?",
+    "paper_file": "leafnet_pruning.pdf",
+    "page": 2
+  },
+  {
+    "question": "Which optimizer is used to fine-tune the pruned network?",
+    "paper_file": "leafnet_pruning.pdf",
+    "page": 2
+  },
+  {
+    "question": "What accuracy does the pruned ResNet-18 reach on CIFAR-10?",
+    "paper_file": "leafnet_pruning.pdf",
+    "page": 3
+  },
+  {
+    "question": "How many students were surveyed about their sleep habits?",
+    "paper_file": "sleepwell_survey.pdf",
+    "page": 1
+  },
+  {
+    "question": "How was the sleep data collected?",
+    "paper_file": "sleepwell_survey.pdf",
+    "page": 2
+  },
+  {
+    "question": "What was the average sleep duration of the students?",
+    "paper_file": "sleepwell_survey.pdf",
+    "page": 3
+  },
+  {
+    "question": "What do the authors recommend about class schedules?",
+    "paper_file": "sleepwell_survey.pdf",
+    "page": 4
+  },
+  {
+    "question": "How far can the LoRa sensor nodes send data?",
+    "paper_file": "aquasense_lora.pdf",
+    "page": 1
+  },
+  {
+    "question": "How often does each sensor node take a reading?",
+    "paper_file": "aquasense_lora.pdf",
+    "page": 2
+  },
+  {
+    "question": "How much irrigation water was saved in the wheat field?",
+    "paper_file": "aquasense_lora.pdf",
+    "page": 3
+  },
+  {
+    "question": "What future work is planned for the soil moisture system?",
+    "paper_file": "aquasense_lora.pdf",
+    "page": 4
+  },
+  {
+    "question": "How many judged responses did the authors release?",
+    "paper_file": "LLM ACT Different.pdf",
+    "page": 2
+  },
+  {
+    "question": "What is the average increase in refusal of harmful requests in Indic languages?",
+    "paper_file": "LLM ACT Different.pdf",
+    "page": 1
+  },
+  {
+    "question": "How many instruction-tuned models were tested in the study?",
+    "paper_file": "LLM ACT Different.pdf",
+    "page": 1
+  },
+  {
+    "question": "Who won the football world cup final?",
+    "paper_file": null
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "paper_file": null
+  },
+  {
+    "question": "How do I bake a chocolate cake?",
+    "paper_file": null
+  },
+  {
+    "question": "What is the population of Japan?",
+    "paper_file": null
+  },
+  {
+    "question": "Who invented the telephone?",
+    "paper_file": null
+  }
+]
