@@ -93,12 +93,12 @@ python evaluation/evaluate.py
 ```
 It reports how often the correct paper (and page) is in the final top 4, **with and without re-ranking**.
 
-20 evaluation questions are in `evaluation/questions_sample.json` (15 with known answers, 5 "not in any paper" negatives). Paste your real results here after running:
+20 evaluation questions are in `evaluation/questions_sample.json` (15 with known answers, 5 "not in any paper" negatives).
 
 | Setting | Paper hit-rate (top 4) | Page hit-rate (top 4) |
 |---|---|---|
-| FAISS only (no re-ranking) | TODO | TODO |
-| FAISS + re-ranking | TODO | TODO |
+| FAISS only (no re-ranking) | paper hit-rate 3/15 (20%) | page hit-rate 2/15 (13%) |
+| FAISS + re-ranking | paper hit-rate 3/15 (20%) | page hit-rate 3/15 (20%) |
 
 Follow-up question tests (at least 5): TODO (question, rewritten standalone question, correct?).
 
